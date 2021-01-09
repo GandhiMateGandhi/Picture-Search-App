@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactSearchApp/static/css/main.21d244a8.chunk.css",
+    "main.js": "/ReactSearchApp/static/js/main.66b059e5.chunk.js",
+    "main.js.map": "/ReactSearchApp/static/js/main.66b059e5.chunk.js.map",
+    "runtime-main.js": "/ReactSearchApp/static/js/runtime-main.f3fb5916.js",
+    "runtime-main.js.map": "/ReactSearchApp/static/js/runtime-main.f3fb5916.js.map",
+    "static/js/2.acee36a3.chunk.js": "/ReactSearchApp/static/js/2.acee36a3.chunk.js",
+    "static/js/2.acee36a3.chunk.js.map": "/ReactSearchApp/static/js/2.acee36a3.chunk.js.map",
+    "index.html": "/ReactSearchApp/index.html",
+    "static/css/main.21d244a8.chunk.css.map": "/ReactSearchApp/static/css/main.21d244a8.chunk.css.map",
+    "static/js/2.acee36a3.chunk.js.LICENSE.txt": "/ReactSearchApp/static/js/2.acee36a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3fb5916.js",
+    "static/js/2.acee36a3.chunk.js",
+    "static/css/main.21d244a8.chunk.css",
+    "static/js/main.66b059e5.chunk.js"
+  ]
+}
